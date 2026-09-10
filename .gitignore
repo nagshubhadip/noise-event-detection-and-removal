@@ -1,0 +1,15 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Model checkpoints / large artefacts
+*.pt
+*.ckpt
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
